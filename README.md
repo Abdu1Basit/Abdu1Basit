@@ -1,7 +1,7 @@
 -Hi👋, I’m @Abdu1Basit and I'm a student currently in Grade 11th.
 - My goal is to become ONE OF THE BEST Data Scientist out there.
 - Currently Learning Python & taking the CS50x course by Harvard and Edx.
-- I also have interest in Artificial Intelligence and Robotics but don't know much about either of them. 
+- I also have interest in Artificial Intelligence and Robotics but don't know much about either of them `YET`. 
 
 
 
